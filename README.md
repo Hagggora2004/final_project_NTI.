@@ -69,6 +69,7 @@ lib/
 <img width="300" src="https://github.com/user-attachments/assets/c71fa855-c51f-4c95-aebd-72559a38f3cd" />
 <img width="300" src="https://github.com/user-attachments/assets/8a680a92-656a-4b20-8e24-8b99699539f9" />
 <img width="300" src="https://github.com/user-attachments/assets/b7b13ad8-f624-4943-a900-2f8986c90807" />
+<img width="1080" height="2220" alt="Screenshot_1769883978" src="https://github.com/user-attachments/assets/3b2908cf-1f70-4ec8-9dea-fd8dd9cd9b77" />
 
 <img width="300" src="https://github.com/user-attachments/assets/f37552c8-4e62-40f1-ac31-d490c8b35dd8" />
 <img width="1080" height="2220" alt="Screenshot_1769884133" src="https://github.com/user-attachments/assets/3e562fce-7cf5-43d6-90d3-c8fc628d234b" />
