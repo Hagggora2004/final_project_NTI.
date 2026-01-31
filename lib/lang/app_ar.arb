@@ -1,0 +1,22 @@
+{
+  "homePage": "الصفحة الرئيسية",
+  "settings": "الإعدادات",
+  "logout": "تسجيل الخروج",
+  "error": "خطأ",
+  "darkMode": "الوضع الليلي",
+  "language": "اللغة",
+  "enterUsername": "ادخل اسم المستخدم :",
+  "enterEmail": "ادخل البريد الإلكتروني :",
+  "enterPassword": "ادخل كلمة المرور :",
+  "register": "تسجيل",
+  "noAccount": "ليس لديك حساب؟",
+  "signIn": "تسجيل الدخول",
+  "cart": "السلة",
+  "cartEmpty": "السلة فارغة",
+  "totalPrice": "السعر الإجمالي",
+  "confirmOrder": "تأكيد الطلب",
+  "orderConfirmed": "تم تأكيد الطلب بنجاح",
+    "welcome": "أهلاً بيك",
+  "onboardingSubtitle": "تسوق بذكاء واعثر على ما يناسبك",
+  "getStarted": "ابدأ الآن"
+}

@@ -1,0 +1,27 @@
+{
+  "homePage": "Home page",
+  "settings": "Settings",
+  "logout": "Logout",
+  "error": "Error",
+  "darkMode": "Dark Mode",
+  "language": "Language",
+  "enterUsername": "Enter your username :",
+  "enterEmail": "Enter your email :",
+  "enterPassword": "Enter your password :",
+  "register": "Register",
+  "noAccount": "Don't have an account?",
+  "signIn": "Sign in",
+  "cart": "Cart",
+  "cartEmpty": "Cart is empty",
+  "totalPrice": "Total price",
+  "confirmOrder": "Confirm Order",
+  "orderConfirmed": "Order confirmed successfully",
+   "welcome": "Welcome",
+  "onboardingSubtitle": "Shop smarter. Find what suits you best",
+  "getStarted": "Get Started",
+    "name": "Name",
+  "email": "Email",
+  "phone": "Phone",
+  "save": "Save"
+
+}
